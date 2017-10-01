@@ -1,0 +1,3 @@
+[submodule "tortoisegit"]
+	path = tortoisegit
+	url = https://gitlab.com/tortoisegit/tortoisegit.git
